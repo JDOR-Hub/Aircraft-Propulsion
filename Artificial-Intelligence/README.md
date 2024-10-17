@@ -12,8 +12,6 @@ This folder contains an impletation of machine learning for predicting turbofan 
 
 ## Notes
 - This is a basic study on the effects of machine learning in turbofan engines.
-- Look into alternative database solutions.
-- Code refactoring for better maintainability.
 
 ## Info
 - Project is not currently being developed.
